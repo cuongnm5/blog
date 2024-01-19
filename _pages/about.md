@@ -5,7 +5,7 @@ permalink: /about/
 image: about.jpg
 ---
 
-Hi, my name is Mạnh Cường.
+Here's my life, unfiltered and raw. Maybe you'll find yourself in my stories, maybe you'll learn something new. Either way, welcome!
 
 ***
 
