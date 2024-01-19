@@ -9,43 +9,24 @@
 
 # GitHub Pages
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
-
-</header>
-
-<!--
-  <<< Author notes: Step 3 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
-  Historic note: previous version checked the homepage content was not empty.
--->
-
-## Step 3: Customize your homepage
-
-_Nice work setting the theme! :sparkles:_
-
-You can customize your homepage by adding content to either an `index.md` file or the `README.md` file. GitHub Pages first looks for an `index.md` file. Your repository has an `index.md` file so we can update it to include your personalized content.
-
-### :keyboard: Activity: Create your homepage
-
-1. Browse to the `index.md` file in the `my-pages` branch.
-1. In the upper right corner, open the file editor.
-1. Type the content you want on your homepage. You can use Markdown formatting on this page.
-1. (optional) You can also modify `title:` or just ignore it for now. We'll discuss it in the next step.
-1. Commit your changes to the `my-pages` branch.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+### Here's my life, unfiltered and raw. Maybe you'll find yourself in my stories, maybe you'll learn something new. Either way, welcome!
+            
+            
+- 🌱 I'm from Viet Nam
+- 🔭 I’m currently working on Zako Group, VNG Corporation
+- 🏗 I’m developing AI backend services
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+### Social(Tech) Profiles
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+ <p align='left'><a href="https://linkedin.com/in/https://www.linkedin.com/in/cuongnm5/" target="_blank"><img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://fb.com/https://www.facebook.com/supremedodo.5/" target="_blank"><img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
-</footer>
+---
+
+### Technologies I used
+
+<p align='left'><a><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+<p align='left'><a><img height="30" width="30" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a><img height="30" width="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p align='left'><a><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a><img height="30" width="30" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
