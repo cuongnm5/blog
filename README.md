@@ -13,7 +13,7 @@
             
             
 - 🌱 I'm from Viet Nam
-- 🔭 I’m currently working on Zako Group, VNG Corporation
+- 🔭 I’m currently working on Zalo Group, VNG Corporation
 - 🏗 I’m developing AI backend services
 
 ---
