@@ -5,22 +5,12 @@ permalink: /about/
 image: about.jpg
 ---
 
-Here's my life, unfiltered and raw. Maybe you'll find yourself in my stories, maybe you'll learn something new. Either way, welcome!
+Welcome to my little corner 💫
 
-***
+I started this blog simply because I wanted to write about the lessons and memorable events in my life. I also want to improve my English writing skills 😁 So, please don't expect any glamorous stories or cinematic phrases. I aim for simplicity and modesty with an inward-looking attitude. I hope you'll find something interesting in my stories 💛
 
-#### Austin scenester...
-<small>2008 - 2018</small>
+-----------------
 
-Offal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan plaid artisan copper mug woke hoodie lumbersexual gluten-free franzen. Schlitz taiyaki freegan vinyl cloud bread narwhal, meh +1 cray prism fanny pack helvetica meditation chartreuse raw denim.
+Thân chào đón bạn đến với góc nhỏ của mình 💫
 
-#### Vinyl hexagon before...
-<small>2001 - 2008</small>
-
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally pour-over keffiyeh messenger bag synth pinterest godard knausgaard letterpress squid cardigan poke listicle. 
-
-#### La croix you probably...
-<small>1995 - 2000</small>
-
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion axe XOXO ethical squid cray jianbing mustache. Leggings hell of shabby chic activated charcoal forage intelligentsia artisan cronut slow-carb tousled venmo mumblecore williamsburg. Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray lumbersexual pour-over forage.
+Mình viết blog này chỉ bởi mình muốn viết ra những bài học, sự kiện đáng nhớ trong cuộc sống và hơn hết mình cũng muốn rèn luyện kỹ năng viết tiếng anh nữa 😁 Nên sẽ chẳng có những câu chuyện hào nhoáng hay câu từ điện ảnh nào cả. Mình hướng tới sự bình dị, mộc mạc với tâm thế hướng về bên trong, vậy nên hy vọng bạn sẽ tìm thấy một chút gì đó thú vị trong những câu chuyện của mình 💛
