@@ -5,4 +5,4 @@ image: category.jpg
 permalink: /category/
 ---
 
-{% translate_file category.md %}
+{% tf category.md %}

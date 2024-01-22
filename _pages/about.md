@@ -5,5 +5,5 @@ image: about.jpg
 permalink: /about/
 ---
 
-{% translate_file about.md %}
+{% tf about.md %}
 
