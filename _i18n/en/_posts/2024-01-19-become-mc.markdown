@@ -4,6 +4,7 @@ title:  "Become MC?"
 date:   2024-01-19 09:05:55 +0300
 image:  mc_wp.png
 tags:   Story
+lang:   en
 ---
 
 What is the most challenging thing you have ever done? For me, it was the experience of auditioning for VNG MC Club a year ago.

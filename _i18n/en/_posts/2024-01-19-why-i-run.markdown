@@ -4,6 +4,7 @@ title:  "Why I run?"
 date:   2024-01-19 09:05:55 +0300
 image:  run_wp.png
 tags:   Sport
+lang:   en
 ---
 
 In the past, I used to play a lot of sports. As a little kid, I would play badminton and soccer with the neighborhood kids, and as I got a bit older, I joined my classmates at the gym. However, I never took up running because it seemed exhaustingly tedious. I'm the type of person who pays close attention to appearance; for instance, if I feel a bit overweight or notice some belly fat, I'll eat less and exercise more. So, on my first day at Zalo (February 2020), my boss – an avid runner – didn't have to try too hard to coax me onto this sweat-laden path.
