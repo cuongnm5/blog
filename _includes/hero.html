@@ -4,10 +4,18 @@
     <div class="row">
       <div class="col col-6 col-t-12 last-item">
         <div class="hero__content">
-          <h1 class="hero__title">{{ site.data.settings.author.say-hello }}</h1>
+          {%if site.lang == "en"%}
+            <h1 class="hero__title">{{ site.data.settings.author.say-hello }}</h1>
+          {%else%}
+            <h1 class="hero__title">{{ site.data.settings.author.say-hello-vi }}</h1>
+          {%endif%}
           <p class="hero__subtitle">{{ site.data.settings.author.bio }}</p>
           <div class="hero__social">
-            <span class="hero__social-title">Follow Me |</span>
+            {%if site.lang == "en"%}
+              <span class="hero__social-title">Follow Me |</span>
+            {%else%}
+              <span class="hero__social-title">Theo dõi mình tại |</span>
+            {%endif%}
             {% include contact-link.html %}
           </div>
         </div>
